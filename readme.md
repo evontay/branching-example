@@ -1,3 +1,3 @@
-#Title 2
+## A better title
 
 This is the new feature
